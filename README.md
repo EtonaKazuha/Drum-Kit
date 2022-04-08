@@ -14,9 +14,9 @@ color of the buttons that are clicked using only CSS.
 
 The index.js file carries the code that plays the sound when a 
 certain button is pressed and also changes the color of the button 
-that is pressed
+that is pressed.
 
-This website was made possible with Dr. Angela's web development course
+This website was made possible with Dr. Angela's web development course.
 
 Creator Emails: 
   jadedragon330@gmail.com 
@@ -25,6 +25,6 @@ Creator Emails:
 Last update on Github:
 April 7, 2022
 
-There are no plans for updating this repository's code
+There are no plans for updating this repository's code.
 
 
